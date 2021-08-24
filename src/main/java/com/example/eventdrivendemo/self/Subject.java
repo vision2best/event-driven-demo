@@ -2,7 +2,7 @@ package com.example.eventdrivendemo.self;
 
 /**
  * @author : Zhang Huang
- * @description : TODO
+ * @description : 事件源 被观察者
  * @date : 2021-08-10 8:29 下午
  */
 public interface Subject {
